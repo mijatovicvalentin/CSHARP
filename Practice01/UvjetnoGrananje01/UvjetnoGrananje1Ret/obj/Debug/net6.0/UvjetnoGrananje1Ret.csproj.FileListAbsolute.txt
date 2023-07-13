@@ -1,0 +1,15 @@
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\UvjetnoGrananje1Ret\UvjetnoGrananje1Ret\bin\Debug\net6.0\UvjetnoGrananje1Ret.exe
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\UvjetnoGrananje1Ret\UvjetnoGrananje1Ret\bin\Debug\net6.0\UvjetnoGrananje1Ret.deps.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\UvjetnoGrananje1Ret\UvjetnoGrananje1Ret\bin\Debug\net6.0\UvjetnoGrananje1Ret.runtimeconfig.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\UvjetnoGrananje1Ret\UvjetnoGrananje1Ret\bin\Debug\net6.0\UvjetnoGrananje1Ret.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\UvjetnoGrananje1Ret\UvjetnoGrananje1Ret\bin\Debug\net6.0\UvjetnoGrananje1Ret.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\UvjetnoGrananje1Ret\UvjetnoGrananje1Ret\obj\Debug\net6.0\UvjetnoGrananje1Ret.csproj.AssemblyReference.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\UvjetnoGrananje1Ret\UvjetnoGrananje1Ret\obj\Debug\net6.0\UvjetnoGrananje1Ret.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\UvjetnoGrananje1Ret\UvjetnoGrananje1Ret\obj\Debug\net6.0\UvjetnoGrananje1Ret.AssemblyInfoInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\UvjetnoGrananje1Ret\UvjetnoGrananje1Ret\obj\Debug\net6.0\UvjetnoGrananje1Ret.AssemblyInfo.cs
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\UvjetnoGrananje1Ret\UvjetnoGrananje1Ret\obj\Debug\net6.0\UvjetnoGrananje1Ret.csproj.CoreCompileInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\UvjetnoGrananje1Ret\UvjetnoGrananje1Ret\obj\Debug\net6.0\UvjetnoGrananje1Ret.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\UvjetnoGrananje1Ret\UvjetnoGrananje1Ret\obj\Debug\net6.0\refint\UvjetnoGrananje1Ret.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\UvjetnoGrananje1Ret\UvjetnoGrananje1Ret\obj\Debug\net6.0\UvjetnoGrananje1Ret.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\UvjetnoGrananje1Ret\UvjetnoGrananje1Ret\obj\Debug\net6.0\UvjetnoGrananje1Ret.genruntimeconfig.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\UvjetnoGrananje1Ret\UvjetnoGrananje1Ret\obj\Debug\net6.0\ref\UvjetnoGrananje1Ret.dll
