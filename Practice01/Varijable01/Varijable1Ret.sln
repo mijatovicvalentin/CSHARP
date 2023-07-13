@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Varijable1Ret", "Varijable1Ret\Varijable1Ret.csproj", "{669F8804-38B6-4A1A-B4FF-CE5F96D8BB73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{669F8804-38B6-4A1A-B4FF-CE5F96D8BB73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669F8804-38B6-4A1A-B4FF-CE5F96D8BB73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669F8804-38B6-4A1A-B4FF-CE5F96D8BB73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669F8804-38B6-4A1A-B4FF-CE5F96D8BB73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14CF3E98-1477-4350-B891-3FB00B91E7C5}
+	EndGlobalSection
+EndGlobal

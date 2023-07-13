@@ -1,0 +1,15 @@
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\Varijable1Ret\Varijable1Ret\obj\Debug\net6.0\Varijable1Ret.csproj.AssemblyReference.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\Varijable1Ret\Varijable1Ret\obj\Debug\net6.0\Varijable1Ret.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\Varijable1Ret\Varijable1Ret\obj\Debug\net6.0\Varijable1Ret.AssemblyInfoInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\Varijable1Ret\Varijable1Ret\obj\Debug\net6.0\Varijable1Ret.AssemblyInfo.cs
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\Varijable1Ret\Varijable1Ret\obj\Debug\net6.0\Varijable1Ret.csproj.CoreCompileInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\Varijable1Ret\Varijable1Ret\bin\Debug\net6.0\Varijable1Ret.exe
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\Varijable1Ret\Varijable1Ret\bin\Debug\net6.0\Varijable1Ret.deps.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\Varijable1Ret\Varijable1Ret\bin\Debug\net6.0\Varijable1Ret.runtimeconfig.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\Varijable1Ret\Varijable1Ret\bin\Debug\net6.0\Varijable1Ret.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\Varijable1Ret\Varijable1Ret\bin\Debug\net6.0\Varijable1Ret.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\Varijable1Ret\Varijable1Ret\obj\Debug\net6.0\Varijable1Ret.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\Varijable1Ret\Varijable1Ret\obj\Debug\net6.0\refint\Varijable1Ret.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\Varijable1Ret\Varijable1Ret\obj\Debug\net6.0\Varijable1Ret.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\Varijable1Ret\Varijable1Ret\obj\Debug\net6.0\Varijable1Ret.genruntimeconfig.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\Varijable1Ret\Varijable1Ret\obj\Debug\net6.0\ref\Varijable1Ret.dll
