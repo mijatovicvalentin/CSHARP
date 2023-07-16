@@ -1,0 +1,15 @@
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\WhilePetlja01\WhilePetlja01\bin\Debug\net6.0\WhilePetlja01.exe
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\WhilePetlja01\WhilePetlja01\bin\Debug\net6.0\WhilePetlja01.deps.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\WhilePetlja01\WhilePetlja01\bin\Debug\net6.0\WhilePetlja01.runtimeconfig.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\WhilePetlja01\WhilePetlja01\bin\Debug\net6.0\WhilePetlja01.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\WhilePetlja01\WhilePetlja01\bin\Debug\net6.0\WhilePetlja01.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\WhilePetlja01\WhilePetlja01\obj\Debug\net6.0\WhilePetlja01.csproj.AssemblyReference.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\WhilePetlja01\WhilePetlja01\obj\Debug\net6.0\WhilePetlja01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\WhilePetlja01\WhilePetlja01\obj\Debug\net6.0\WhilePetlja01.AssemblyInfoInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\WhilePetlja01\WhilePetlja01\obj\Debug\net6.0\WhilePetlja01.AssemblyInfo.cs
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\WhilePetlja01\WhilePetlja01\obj\Debug\net6.0\WhilePetlja01.csproj.CoreCompileInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\WhilePetlja01\WhilePetlja01\obj\Debug\net6.0\WhilePetlja01.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\WhilePetlja01\WhilePetlja01\obj\Debug\net6.0\refint\WhilePetlja01.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\WhilePetlja01\WhilePetlja01\obj\Debug\net6.0\WhilePetlja01.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\WhilePetlja01\WhilePetlja01\obj\Debug\net6.0\WhilePetlja01.genruntimeconfig.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\WhilePetlja01\WhilePetlja01\obj\Debug\net6.0\ref\WhilePetlja01.dll

@@ -1,0 +1,15 @@
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\ForPetlja01\ForPetlja01\bin\Debug\net6.0\ForPetlja01.exe
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\ForPetlja01\ForPetlja01\bin\Debug\net6.0\ForPetlja01.deps.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\ForPetlja01\ForPetlja01\bin\Debug\net6.0\ForPetlja01.runtimeconfig.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\ForPetlja01\ForPetlja01\bin\Debug\net6.0\ForPetlja01.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\ForPetlja01\ForPetlja01\bin\Debug\net6.0\ForPetlja01.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\ForPetlja01\ForPetlja01\obj\Debug\net6.0\ForPetlja01.csproj.AssemblyReference.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\ForPetlja01\ForPetlja01\obj\Debug\net6.0\ForPetlja01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\ForPetlja01\ForPetlja01\obj\Debug\net6.0\ForPetlja01.AssemblyInfoInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\ForPetlja01\ForPetlja01\obj\Debug\net6.0\ForPetlja01.AssemblyInfo.cs
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\ForPetlja01\ForPetlja01\obj\Debug\net6.0\ForPetlja01.csproj.CoreCompileInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\ForPetlja01\ForPetlja01\obj\Debug\net6.0\ForPetlja01.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\ForPetlja01\ForPetlja01\obj\Debug\net6.0\refint\ForPetlja01.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\ForPetlja01\ForPetlja01\obj\Debug\net6.0\ForPetlja01.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\ForPetlja01\ForPetlja01\obj\Debug\net6.0\ForPetlja01.genruntimeconfig.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\ForPetlja01\ForPetlja01\obj\Debug\net6.0\ref\ForPetlja01.dll
