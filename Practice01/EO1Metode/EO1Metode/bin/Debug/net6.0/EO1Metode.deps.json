@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EO1Metode/1.0.0": {
+        "dependencies": {
+          "ZajednickeMetode": "1.0.0"
+        },
+        "runtime": {
+          "EO1Metode.dll": {}
+        }
+      },
+      "ZajednickeMetode/1.0.0": {
+        "runtime": {
+          "ZajednickeMetode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EO1Metode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZajednickeMetode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

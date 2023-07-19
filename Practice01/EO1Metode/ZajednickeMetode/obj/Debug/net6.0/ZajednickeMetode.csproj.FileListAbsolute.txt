@@ -1,0 +1,12 @@
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\EO1Metode\ZajednickeMetode\bin\Debug\net6.0\ZajednickeMetode.deps.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\EO1Metode\ZajednickeMetode\bin\Debug\net6.0\ZajednickeMetode.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\EO1Metode\ZajednickeMetode\bin\Debug\net6.0\ZajednickeMetode.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\EO1Metode\ZajednickeMetode\obj\Debug\net6.0\ZajednickeMetode.csproj.AssemblyReference.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\EO1Metode\ZajednickeMetode\obj\Debug\net6.0\ZajednickeMetode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\EO1Metode\ZajednickeMetode\obj\Debug\net6.0\ZajednickeMetode.AssemblyInfoInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\EO1Metode\ZajednickeMetode\obj\Debug\net6.0\ZajednickeMetode.AssemblyInfo.cs
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\EO1Metode\ZajednickeMetode\obj\Debug\net6.0\ZajednickeMetode.csproj.CoreCompileInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\EO1Metode\ZajednickeMetode\obj\Debug\net6.0\ZajednickeMetode.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\EO1Metode\ZajednickeMetode\obj\Debug\net6.0\refint\ZajednickeMetode.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\EO1Metode\ZajednickeMetode\obj\Debug\net6.0\ZajednickeMetode.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\EO1Metode\ZajednickeMetode\obj\Debug\net6.0\ref\ZajednickeMetode.dll
