@@ -1,0 +1,2 @@
+﻿Kreirati kalsu smjer s konstruktorom koji prima naziv smjera i cijenu
+u program.cs  napraviti jednu istancu klase smjer

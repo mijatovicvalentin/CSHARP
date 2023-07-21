@@ -1,0 +1,15 @@
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\KlasaObjekt\obj\Debug\net6.0\KlasaObjekt.csproj.AssemblyReference.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\KlasaObjekt\obj\Debug\net6.0\KlasaObjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\KlasaObjekt\obj\Debug\net6.0\KlasaObjekt.AssemblyInfoInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\KlasaObjekt\obj\Debug\net6.0\KlasaObjekt.AssemblyInfo.cs
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\KlasaObjekt\obj\Debug\net6.0\KlasaObjekt.csproj.CoreCompileInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\KlasaObjekt\bin\Debug\net6.0\KlasaObjekt.exe
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\KlasaObjekt\bin\Debug\net6.0\KlasaObjekt.deps.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\KlasaObjekt\bin\Debug\net6.0\KlasaObjekt.runtimeconfig.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\KlasaObjekt\bin\Debug\net6.0\KlasaObjekt.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\KlasaObjekt\bin\Debug\net6.0\KlasaObjekt.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\KlasaObjekt\obj\Debug\net6.0\KlasaObjekt.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\KlasaObjekt\obj\Debug\net6.0\refint\KlasaObjekt.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\KlasaObjekt\obj\Debug\net6.0\KlasaObjekt.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\KlasaObjekt\obj\Debug\net6.0\KlasaObjekt.genruntimeconfig.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\KlasaObjekt\obj\Debug\net6.0\ref\KlasaObjekt.dll

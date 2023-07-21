@@ -1,0 +1,15 @@
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\JednakostObjekata\bin\Debug\net6.0\JednakostObjekata.exe
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\JednakostObjekata\bin\Debug\net6.0\JednakostObjekata.deps.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\JednakostObjekata\bin\Debug\net6.0\JednakostObjekata.runtimeconfig.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\JednakostObjekata\bin\Debug\net6.0\JednakostObjekata.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\JednakostObjekata\bin\Debug\net6.0\JednakostObjekata.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\JednakostObjekata\obj\Debug\net6.0\JednakostObjekata.csproj.AssemblyReference.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\JednakostObjekata\obj\Debug\net6.0\JednakostObjekata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\JednakostObjekata\obj\Debug\net6.0\JednakostObjekata.AssemblyInfoInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\JednakostObjekata\obj\Debug\net6.0\JednakostObjekata.AssemblyInfo.cs
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\JednakostObjekata\obj\Debug\net6.0\JednakostObjekata.csproj.CoreCompileInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\JednakostObjekata\obj\Debug\net6.0\JednakostObjekata.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\JednakostObjekata\obj\Debug\net6.0\refint\JednakostObjekata.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\JednakostObjekata\obj\Debug\net6.0\JednakostObjekata.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\JednakostObjekata\obj\Debug\net6.0\JednakostObjekata.genruntimeconfig.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\JednakostObjekata\obj\Debug\net6.0\ref\JednakostObjekata.dll

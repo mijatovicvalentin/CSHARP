@@ -1,0 +1,15 @@
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\Ucahurivanje\bin\Debug\net6.0\Ucahurivanje.exe
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\Ucahurivanje\bin\Debug\net6.0\Ucahurivanje.deps.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\Ucahurivanje\bin\Debug\net6.0\Ucahurivanje.runtimeconfig.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\Ucahurivanje\bin\Debug\net6.0\Ucahurivanje.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\Ucahurivanje\bin\Debug\net6.0\Ucahurivanje.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\Ucahurivanje\obj\Debug\net6.0\Ucahurivanje.csproj.AssemblyReference.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\Ucahurivanje\obj\Debug\net6.0\Ucahurivanje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\Ucahurivanje\obj\Debug\net6.0\Ucahurivanje.AssemblyInfoInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\Ucahurivanje\obj\Debug\net6.0\Ucahurivanje.AssemblyInfo.cs
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\Ucahurivanje\obj\Debug\net6.0\Ucahurivanje.csproj.CoreCompileInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\Ucahurivanje\obj\Debug\net6.0\Ucahurivanje.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\Ucahurivanje\obj\Debug\net6.0\refint\Ucahurivanje.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\Ucahurivanje\obj\Debug\net6.0\Ucahurivanje.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\Ucahurivanje\obj\Debug\net6.0\Ucahurivanje.genruntimeconfig.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\KlasaObjekt\Ucahurivanje\obj\Debug\net6.0\ref\Ucahurivanje.dll

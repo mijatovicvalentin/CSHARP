@@ -1,0 +1,2 @@
+﻿kreirati klasu grupa s kosntruktorom koji ne prima parametre
+u program.cs napraviti jednu instancu klase smjer
