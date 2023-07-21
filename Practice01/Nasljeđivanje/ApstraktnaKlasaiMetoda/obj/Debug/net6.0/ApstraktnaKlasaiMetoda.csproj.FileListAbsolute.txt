@@ -1,0 +1,15 @@
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\ApstraktnaKlasaiMetoda\bin\Debug\net6.0\ApstraktnaKlasaiMetoda.exe
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\ApstraktnaKlasaiMetoda\bin\Debug\net6.0\ApstraktnaKlasaiMetoda.deps.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\ApstraktnaKlasaiMetoda\bin\Debug\net6.0\ApstraktnaKlasaiMetoda.runtimeconfig.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\ApstraktnaKlasaiMetoda\bin\Debug\net6.0\ApstraktnaKlasaiMetoda.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\ApstraktnaKlasaiMetoda\bin\Debug\net6.0\ApstraktnaKlasaiMetoda.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\ApstraktnaKlasaiMetoda\obj\Debug\net6.0\ApstraktnaKlasaiMetoda.csproj.AssemblyReference.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\ApstraktnaKlasaiMetoda\obj\Debug\net6.0\ApstraktnaKlasaiMetoda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\ApstraktnaKlasaiMetoda\obj\Debug\net6.0\ApstraktnaKlasaiMetoda.AssemblyInfoInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\ApstraktnaKlasaiMetoda\obj\Debug\net6.0\ApstraktnaKlasaiMetoda.AssemblyInfo.cs
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\ApstraktnaKlasaiMetoda\obj\Debug\net6.0\ApstraktnaKlasaiMetoda.csproj.CoreCompileInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\ApstraktnaKlasaiMetoda\obj\Debug\net6.0\ApstraktnaKlasaiMetoda.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\ApstraktnaKlasaiMetoda\obj\Debug\net6.0\refint\ApstraktnaKlasaiMetoda.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\ApstraktnaKlasaiMetoda\obj\Debug\net6.0\ApstraktnaKlasaiMetoda.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\ApstraktnaKlasaiMetoda\obj\Debug\net6.0\ApstraktnaKlasaiMetoda.genruntimeconfig.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\ApstraktnaKlasaiMetoda\obj\Debug\net6.0\ref\ApstraktnaKlasaiMetoda.dll

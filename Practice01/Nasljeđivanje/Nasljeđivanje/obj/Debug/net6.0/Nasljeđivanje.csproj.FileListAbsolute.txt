@@ -1,0 +1,15 @@
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\Nasljeđivanje\bin\Debug\net6.0\Nasljeđivanje.exe
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\Nasljeđivanje\bin\Debug\net6.0\Nasljeđivanje.deps.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\Nasljeđivanje\bin\Debug\net6.0\Nasljeđivanje.runtimeconfig.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\Nasljeđivanje\bin\Debug\net6.0\Nasljeđivanje.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\Nasljeđivanje\bin\Debug\net6.0\Nasljeđivanje.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\Nasljeđivanje\obj\Debug\net6.0\Nasljeđivanje.csproj.AssemblyReference.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\Nasljeđivanje\obj\Debug\net6.0\Nasljeđivanje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\Nasljeđivanje\obj\Debug\net6.0\Nasljeđivanje.AssemblyInfoInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\Nasljeđivanje\obj\Debug\net6.0\Nasljeđivanje.AssemblyInfo.cs
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\Nasljeđivanje\obj\Debug\net6.0\Nasljeđivanje.csproj.CoreCompileInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\Nasljeđivanje\obj\Debug\net6.0\Nasljeđivanje.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\Nasljeđivanje\obj\Debug\net6.0\refint\Nasljeđivanje.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\Nasljeđivanje\obj\Debug\net6.0\Nasljeđivanje.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\Nasljeđivanje\obj\Debug\net6.0\Nasljeđivanje.genruntimeconfig.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Nasljeđivanje\Nasljeđivanje\obj\Debug\net6.0\ref\Nasljeđivanje.dll
