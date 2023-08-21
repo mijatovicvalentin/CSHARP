@@ -1,0 +1,15 @@
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\LjubavniKalkulator\LjubavniKalkulator\bin\Debug\net6.0\LjubavniKalkulator.exe
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\LjubavniKalkulator\LjubavniKalkulator\bin\Debug\net6.0\LjubavniKalkulator.deps.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\LjubavniKalkulator\LjubavniKalkulator\bin\Debug\net6.0\LjubavniKalkulator.runtimeconfig.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\LjubavniKalkulator\LjubavniKalkulator\bin\Debug\net6.0\LjubavniKalkulator.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\LjubavniKalkulator\LjubavniKalkulator\bin\Debug\net6.0\LjubavniKalkulator.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\LjubavniKalkulator\LjubavniKalkulator\obj\Debug\net6.0\LjubavniKalkulator.csproj.AssemblyReference.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\LjubavniKalkulator\LjubavniKalkulator\obj\Debug\net6.0\LjubavniKalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\LjubavniKalkulator\LjubavniKalkulator\obj\Debug\net6.0\LjubavniKalkulator.AssemblyInfoInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\LjubavniKalkulator\LjubavniKalkulator\obj\Debug\net6.0\LjubavniKalkulator.AssemblyInfo.cs
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\LjubavniKalkulator\LjubavniKalkulator\obj\Debug\net6.0\LjubavniKalkulator.csproj.CoreCompileInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\LjubavniKalkulator\LjubavniKalkulator\obj\Debug\net6.0\LjubavniKalkulator.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\LjubavniKalkulator\LjubavniKalkulator\obj\Debug\net6.0\refint\LjubavniKalkulator.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\LjubavniKalkulator\LjubavniKalkulator\obj\Debug\net6.0\LjubavniKalkulator.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\LjubavniKalkulator\LjubavniKalkulator\obj\Debug\net6.0\LjubavniKalkulator.genruntimeconfig.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\LjubavniKalkulator\LjubavniKalkulator\obj\Debug\net6.0\ref\LjubavniKalkulator.dll
