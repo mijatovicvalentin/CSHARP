@@ -1,0 +1,15 @@
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Ljubavni_Kalkulator\bin\Debug\net6.0\Ljubavni_Kalkulator.exe
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Ljubavni_Kalkulator\bin\Debug\net6.0\Ljubavni_Kalkulator.deps.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Ljubavni_Kalkulator\bin\Debug\net6.0\Ljubavni_Kalkulator.runtimeconfig.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Ljubavni_Kalkulator\bin\Debug\net6.0\Ljubavni_Kalkulator.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Ljubavni_Kalkulator\bin\Debug\net6.0\Ljubavni_Kalkulator.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Ljubavni_Kalkulator\obj\Debug\net6.0\Ljubavni_Kalkulator.csproj.AssemblyReference.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Ljubavni_Kalkulator\obj\Debug\net6.0\Ljubavni_Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Ljubavni_Kalkulator\obj\Debug\net6.0\Ljubavni_Kalkulator.AssemblyInfoInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Ljubavni_Kalkulator\obj\Debug\net6.0\Ljubavni_Kalkulator.AssemblyInfo.cs
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Ljubavni_Kalkulator\obj\Debug\net6.0\Ljubavni_Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Ljubavni_Kalkulator\obj\Debug\net6.0\Ljubavni_Kalkulator.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Ljubavni_Kalkulator\obj\Debug\net6.0\refint\Ljubavni_Kalkulator.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Ljubavni_Kalkulator\obj\Debug\net6.0\Ljubavni_Kalkulator.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Ljubavni_Kalkulator\obj\Debug\net6.0\Ljubavni_Kalkulator.genruntimeconfig.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\Ljubavni_Kalkulator\obj\Debug\net6.0\ref\Ljubavni_Kalkulator.dll

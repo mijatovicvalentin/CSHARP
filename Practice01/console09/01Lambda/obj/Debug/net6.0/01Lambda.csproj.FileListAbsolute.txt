@@ -1,0 +1,15 @@
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\console09\01Lambda\bin\Debug\net6.0\01Lambda.exe
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\console09\01Lambda\bin\Debug\net6.0\01Lambda.deps.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\console09\01Lambda\bin\Debug\net6.0\01Lambda.runtimeconfig.json
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\console09\01Lambda\bin\Debug\net6.0\01Lambda.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\console09\01Lambda\bin\Debug\net6.0\01Lambda.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\console09\01Lambda\obj\Debug\net6.0\01Lambda.csproj.AssemblyReference.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\console09\01Lambda\obj\Debug\net6.0\01Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\console09\01Lambda\obj\Debug\net6.0\01Lambda.AssemblyInfoInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\console09\01Lambda\obj\Debug\net6.0\01Lambda.AssemblyInfo.cs
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\console09\01Lambda\obj\Debug\net6.0\01Lambda.csproj.CoreCompileInputs.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\console09\01Lambda\obj\Debug\net6.0\01Lambda.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\console09\01Lambda\obj\Debug\net6.0\refint\01Lambda.dll
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\console09\01Lambda\obj\Debug\net6.0\01Lambda.pdb
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\console09\01Lambda\obj\Debug\net6.0\01Lambda.genruntimeconfig.cache
+C:\Users\mijat\Documents\EdunovaWP1\CSHARP\CSHARP\Practice01\console09\01Lambda\obj\Debug\net6.0\ref\01Lambda.dll
