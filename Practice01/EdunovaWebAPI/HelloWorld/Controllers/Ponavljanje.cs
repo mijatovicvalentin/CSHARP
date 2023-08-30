@@ -23,7 +23,7 @@ namespace HelloWorld.Controllers
         }
 
         [HttpGet]
-        [Route("Ponavljanje 2")]
+        [Route("Ponavljanje2")]
         public int Ponavljanje2(int a, int b, int c, int d, int e)
         {
 

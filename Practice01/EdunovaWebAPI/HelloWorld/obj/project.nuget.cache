@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "X0WLOVnT3atsEilS+kp4Y03nEjt1oGIFvePVswsvjpBxzRHrhXwcsKLzMkzbBQKSNRAlMXPaY0LLhdWgB0zjig==",
+  "dgSpecHash": "PmpzSXyptdw+OQsFHxEz9/K7PamsGFZ1jrlEMU7fexeeSzWdJODJCFlzISr98vXzNOh6vRh1tM6GonJm1pZNTg==",
   "success": true,
   "projectFilePath": "C:\\Users\\mijat\\Documents\\EdunovaWP1\\CSHARP\\CSHARP\\Practice01\\EdunovaWebAPI\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mijat\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\mijat\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\mijat\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\mijat\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\mijat\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\mijat\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\mijat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",

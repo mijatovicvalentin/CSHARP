@@ -1,5 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.DataProtection.KeyManagement.Internal;
+using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 using System.Text;
+using System.Text.Json.Serialization;
 
 namespace HelloWorld.Controllers
 {
@@ -36,7 +39,7 @@ namespace HelloWorld.Controllers
         }
 
         [HttpGet]
-        [Route("PozdravViseParametar")]
+        [Route("PozdravViseParametara")]
 
 
         public string DrugaMetoda(string s="", int i=0)
@@ -59,7 +62,7 @@ namespace HelloWorld.Controllers
 
         //Kreirajte rutu /HelloWorld2/zad2 koja prima dva broja i vraća njihov zbroj
         [HttpGet]
-        [Route("Zad 2")]
+        [Route("Zad2")]
         public int helloWorld2(int i=0, int b=0) 
         {
             return i + b;
@@ -75,6 +78,71 @@ namespace HelloWorld.Controllers
         {
             return brojPonavljanja + Osijek;
         }
+
+
+        [HttpGet]
+        [Route("{sifra:int}")]
+
+
+        public string PozdravRuta(int sifra)
+        {
+
+            return "Hello " + sifra;
+
+        }
+
+
+
+        [HttpGet]
+        [Route("{sifra:int}/{kategorija}")]
+
+
+        public string PozdravRuta2(int sifra, string kategorija)
+        {
+
+            return "Hello " + sifra + " " + kategorija;
+
+        }
+
+
+        //--------------------------------------------------------------
+
+        [HttpPost]
+        public string DodavanjeNovog(string ime)
+        {
+            return "Dodao " + ime;
+        }
+
+
+
+        [HttpPut]
+        public string promjena (int sifra, string naziv)
+        {
+            return "na sifri " + sifra + " postavljam naziv " + naziv;
+        }
+
+
+
+        [HttpDelete]
+        public bool obrisao(int sifra)
+        {
+
+            return true;
+
+        }
+
+
+        ///////////////////////////////////
+        [HttpGet]
+        [Route("matrica")]
+
+        public String Matrica(int x, int y)
+        {
+            var m = new int[x, y];
+
+            return new JsonResult(JsonConvert.SerializeObject(m);      
+        }
+
 
     }
 }
