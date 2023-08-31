@@ -43,14 +43,11 @@ namespace EdunovaAPP.Controllers
 
         [HttpDelete]
         [Route("{sifra:int}")]
+        [Produces("application/json")]
         public IActionResult Delete(int sifra)
         {
-            return StatusCode(StatusCodes.Status200OK, "{\"obrisano\"),", sifra);
-        }
-
-        private IActionResult StatusCode(int status200OK, string v, int sifra)
-        {
-            throw new NotImplementedException();
+            // Brisanje u bazi
+            return StatusCode(StatusCodes.Status200OK, "{\"obrisano\":true}");
         }
     }
 }
