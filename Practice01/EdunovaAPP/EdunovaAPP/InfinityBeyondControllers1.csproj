@@ -7,6 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="C:\Users\mijat\Documents\Zavrsni-rad\InfinityBeyondControllers1\InfinityBeyondContext.cs" Link="InfinityBeyondContext.cs" />
+    <Compile Include="C:\Users\mijat\Documents\Zavrsni-rad\InfinityBeyondControllers\InfinityBeyondControllers\InfinityBeyondContext.cs" Link="InfinityBeyondContext.cs" />
+    <Compile Include="C:\Users\mijat\Documents\Zavrsni-rad\InfinityBeyondControllers\Korisnik.cs" Link="Korisnik.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="C:\Users\mijat\Documents\Zavrsni-rad\InfinityBeyondControllers1\appsettings.json" Link="appsettings.json" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.5" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.10" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.10" />

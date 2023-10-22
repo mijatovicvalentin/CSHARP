@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nJABKxqCLKj9aw/j/1T2mQC8GblcJonw3diGtF6GGslx1RnDdDlHJT6wCSJ2O0/m3OGl09woPhJgtb6giGoM4A==",
+  "dgSpecHash": "Z8EFyoYgwwgSEaJCJszDqAM9DWiWu3ehLjsQ4NLlH31mnsI3KLhC/IN/Upjy6sZ7ZhrqS6rfBQTznO6Lphk4Cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mijat\\Documents\\EdunovaWP1\\CSHARP\\CSHARP\\Practice01\\EdunovaAPP\\EdunovaAPP\\EdunovaAPP.csproj",
+  "projectFilePath": "C:\\Users\\mijat\\Documents\\EdunovaWP1\\CSHARP\\CSHARP\\Practice01\\EdunovaAPP\\EdunovaAPP\\InfinityBeyondControllers1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mijat\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mijat\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

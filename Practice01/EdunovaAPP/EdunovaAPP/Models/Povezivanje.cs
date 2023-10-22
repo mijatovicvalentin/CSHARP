@@ -1,8 +1,8 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace EdunovaApp.Models
+namespace InfinityBeyondControllers1.Models
 {
-    public abstract class Entitet
+    public abstract class Povezivanje
     {
         [Key]
         public int Sifra { get; set; }

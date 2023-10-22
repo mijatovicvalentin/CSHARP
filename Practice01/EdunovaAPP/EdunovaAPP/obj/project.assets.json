@@ -3848,9 +3848,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mijat\\Documents\\EdunovaWP1\\CSHARP\\CSHARP\\Practice01\\EdunovaAPP\\EdunovaAPP\\EdunovaAPP.csproj",
-      "projectName": "EdunovaAPP",
-      "projectPath": "C:\\Users\\mijat\\Documents\\EdunovaWP1\\CSHARP\\CSHARP\\Practice01\\EdunovaAPP\\EdunovaAPP\\EdunovaAPP.csproj",
+      "projectUniqueName": "C:\\Users\\mijat\\Documents\\EdunovaWP1\\CSHARP\\CSHARP\\Practice01\\EdunovaAPP\\EdunovaAPP\\InfinityBeyondControllers1.csproj",
+      "projectName": "InfinityBeyondControllers1",
+      "projectPath": "C:\\Users\\mijat\\Documents\\EdunovaWP1\\CSHARP\\CSHARP\\Practice01\\EdunovaAPP\\EdunovaAPP\\InfinityBeyondControllers1.csproj",
       "packagesPath": "C:\\Users\\mijat\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mijat\\Documents\\EdunovaWP1\\CSHARP\\CSHARP\\Practice01\\EdunovaAPP\\EdunovaAPP\\obj\\",
       "projectStyle": "PackageReference",
